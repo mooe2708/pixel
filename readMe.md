@@ -1,3 +1,5 @@
+# FOR WINDOW/PC
+ 
  python -m venv pix
  
  source pix/bin/activate
@@ -10,5 +12,5 @@
 masukan query di data.txt
 jalankan dengan python
 
-# python main.py
+ python main.py
   
