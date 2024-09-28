@@ -2,7 +2,7 @@
  
  python -m venv pix
  
- source pix/bin/activate
+ pix\scripts\activate
  
  pip install -r requirements.txt
  
